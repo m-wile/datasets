@@ -1,0 +1,16 @@
+Package: mwile
+Title: Commodity Datasets
+Version: 0.0.0.9000
+Authors@R: 
+    person("Matthew", "Wile", , "wile@ualberta.ca", role = c("aut", "cre"))
+Description: Datasets used in golem commodity apps.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports: 
+    magrittr,
+    tidyquant
+Depends: 
+    R (>= 2.10)
+LazyData: true
